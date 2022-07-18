@@ -10,4 +10,4 @@
 
 ## 2022.07.18
 - 나도코딩 머신러닝 강의 업로드
-
+![Progress](https://user-images.githubusercontent.com/55613547/179465969-ae44839b-32ed-4e8e-9ef5-7de060c52eec.jpg)
